@@ -2,7 +2,7 @@
 
 Encargon allows to encrypt and decrypt files using a password.
 It protects the bad security of your password using the **Argon2** Key derivation function.
-It uses AES 256 to encrypt and decrypt the files.
+It uses AES CTR 256 to encrypt and decrypt the files.
 
 **Status**: In development
 
